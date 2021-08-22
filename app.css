@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #dfe6e9;
+}
+
+#modalDiv {
+  background-color: #dfe6e9;
+}
+
+
+#theader {
+background-color: #6c5ce7;
+color: white;
+}
+
+#collectionTable {
+  font-family: 'Open Sans', sans-serif;
+  font-size: large;
+}
